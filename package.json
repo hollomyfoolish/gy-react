@@ -1,0 +1,25 @@
+{
+  "name": "gy-react",
+  "version": "1.0.0",
+  "description": "study of react",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hollomyfoolish/gy-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "allen gong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hollomyfoolish/gy-react/issues"
+  },
+  "homepage": "https://github.com/hollomyfoolish/gy-react#readme"
+}
